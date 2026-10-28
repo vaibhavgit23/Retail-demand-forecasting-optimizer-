@@ -223,3 +223,6 @@ venv/
 data/raw/*.xlsx
 .ipynb_checkpoints/
 .DS_Store
+
+
+   data/processed/*.parquet
