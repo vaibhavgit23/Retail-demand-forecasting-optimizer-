@@ -22,3 +22,4 @@ UCI Online Retail dataset: 541,909 transactions, 1 Dec 2010 to 9 Dec 2011, 4,070
 ## Progress log
 - Day 1: repo setup, data loaded, problem defined
 - Day 2: cleaned data, separated returns, trimmed to 52 full weeks
+- Day 3: built weekly demand table for the top 60 products; separated bulk orders (10% of units) from regular demand
