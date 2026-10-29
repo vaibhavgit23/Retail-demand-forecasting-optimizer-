@@ -28,3 +28,4 @@ UCI Online Retail dataset: 541,909 transactions, 1 Dec 2010 to 9 Dec 2011, 4,070
 - Day 6: pooled gradient-boosting model; matches but does not clearly beat the 4-week moving average (WAPE 0.368 vs 0.361); under-forecasts ramping products
 
 - Day 7: 80% prediction intervals from past forecast errors (8-week calibration window); ramp products remain under-covered (69-77% vs 90% target)
+- Day 8: inventory simulation; forecast + buffer vs naive ordering compared at matched stock/service; interval-based rule equals a fixed buffer at matched fill rate
