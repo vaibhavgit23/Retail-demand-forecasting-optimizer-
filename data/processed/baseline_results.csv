@@ -1,0 +1,17 @@
+model,horizon,group,MAE,WAPE
+naive,1,all,135.2,0.431
+naive,1,stable,137.0,0.459
+naive,1,intermittent,145.5,0.611
+naive,1,seasonal_ramp,119.2,0.272
+ma4,1,all,113.3,0.361
+ma4,1,stable,109.0,0.365
+ma4,1,intermittent,112.8,0.474
+ma4,1,seasonal_ramp,135.0,0.308
+naive,2,all,138.6,0.442
+naive,2,stable,135.4,0.453
+naive,2,intermittent,147.0,0.618
+naive,2,seasonal_ramp,149.1,0.34
+ma4,2,all,119.2,0.38
+ma4,2,stable,110.7,0.37
+ma4,2,intermittent,118.3,0.497
+ma4,2,seasonal_ramp,162.3,0.37
