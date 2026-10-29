@@ -25,3 +25,4 @@ UCI Online Retail dataset: 541,909 transactions, 1 Dec 2010 to 9 Dec 2011, 4,070
 - Day 3: built weekly demand table for the top 60 products; separated bulk orders (10% of units) from regular demand
 - Day 4: exploratory analysis; 60 products split into stable (45), seasonal ramp (9) and intermittent (6)
 - Day 5: validation design and baseline models (naive, 4-week moving average)
+- Day 6: pooled gradient-boosting model; matches but does not clearly beat the 4-week moving average (WAPE 0.368 vs 0.361); under-forecasts ramping products
