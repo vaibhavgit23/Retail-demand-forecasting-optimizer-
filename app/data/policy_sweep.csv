@@ -1,0 +1,33 @@
+horizon,policy,param,fill_rate,stockout_rate,stock_cover
+1,naive (last week),,0.798,0.474,1.027
+1,fixed buffer,0.0,0.766,0.536,0.897
+1,fixed buffer,0.1,0.81,0.456,0.986
+1,fixed buffer,0.2,0.847,0.385,1.076
+1,fixed buffer,0.3,0.877,0.311,1.166
+1,fixed buffer,0.5,0.925,0.214,1.346
+1,fixed buffer,0.75,0.962,0.124,1.571
+1,fixed buffer,1.0,0.98,0.064,1.796
+1,fixed buffer,1.5,0.994,0.022,2.246
+1,interval-based,0.5,0.772,0.526,0.91
+1,interval-based,0.6,0.829,0.421,1.031
+1,interval-based,0.7,0.871,0.321,1.148
+1,interval-based,0.8,0.927,0.206,1.358
+1,interval-based,0.9,0.97,0.103,1.651
+1,interval-based,0.95,0.987,0.042,1.967
+1,interval-based,0.98,0.998,0.01,2.761
+2,naive (last week),,0.763,0.504,0.972
+2,fixed buffer,0.0,0.746,0.549,0.876
+2,fixed buffer,0.1,0.79,0.475,0.963
+2,fixed buffer,0.2,0.827,0.412,1.051
+2,fixed buffer,0.3,0.859,0.343,1.139
+2,fixed buffer,0.5,0.908,0.233,1.314
+2,fixed buffer,0.75,0.949,0.151,1.533
+2,fixed buffer,1.0,0.97,0.076,1.753
+2,fixed buffer,1.5,0.988,0.038,2.192
+2,interval-based,0.5,0.756,0.542,0.894
+2,interval-based,0.6,0.814,0.433,1.017
+2,interval-based,0.7,0.867,0.324,1.163
+2,interval-based,0.8,0.917,0.221,1.352
+2,interval-based,0.9,0.964,0.103,1.659
+2,interval-based,0.95,0.981,0.044,2.02
+2,interval-based,0.98,0.994,0.011,2.889
