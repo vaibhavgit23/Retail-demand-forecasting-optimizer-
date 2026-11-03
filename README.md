@@ -2,7 +2,7 @@
 
 Forecasts weekly demand for 60 retail products, builds prediction ranges from past forecast errors, and turns them into order-up-to recommendations. A weekly inventory simulation compares ordering policies, and a Streamlit dashboard shows the results.
 
-**Live demo:** _add the Streamlit link here after deployment_
+**Live demo:** https://your-app-name.streamlit.app
 
 ![Product forecast tab](docs/dashboard_forecast.png)
 ![Policy comparison tab](docs/dashboard_policies.png)
@@ -94,6 +94,8 @@ notebooks/      01 first look, 02 cleaning, 03 weekly demand, 04 EDA,
 - Day 8: inventory simulation; forecast + buffer vs naive ordering compared at matched stock/service
 - Day 9: Streamlit dashboard with product forecast, order-up-to recommendation and policy comparison
 - Day 10: polished dashboard, added screenshots, and rewrote README with results, key findings and limitations
+
+- Day 11: deployed the dashboard to Streamlit Community Cloud
 
 ## Data source
 Online Retail dataset, UCI Machine Learning Repository (donated by Daqing Chen, 2015).
