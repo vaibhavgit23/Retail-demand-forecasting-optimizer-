@@ -2,7 +2,7 @@
 
 Forecasts weekly demand for 60 retail products, builds prediction ranges from past forecast errors, and turns them into order-up-to recommendations. A weekly inventory simulation compares ordering policies, and a Streamlit dashboard shows the results.
 
-**Live demo:** https://your-app-name.streamlit.app
+**Live demo:** https://retail-demand-optimizer.streamlit.app/
 
 ![Product forecast tab](docs/dashboard_forecast.png)
 ![Policy comparison tab](docs/dashboard_policies.png)
